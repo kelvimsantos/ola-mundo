@@ -4,8 +4,6 @@
 repositório criado durante uma aula ao vivo!
  essa linha eu adicionei direto do github
 
-
-ideias 
 ENGINE, IDEIAS 
 se for criar uma engine 
 deve aplicar coisas  que não ha nas outras ou melhorias 
@@ -95,7 +93,7 @@ conteudo
 como começar 
 
 como pensar em um jogo
-hyper casual
+hyper casual- fica mais dificil-complicado mais rapdio que intedia-repetição
 de historia, 
 aventura + puzzle
 de tiro
@@ -137,6 +135,10 @@ como criar pos-processamento
 como pensar em melhores formas de  diminuir o custo processamento 
 - como decidir para qual plataforma lançar
 
+-como criar comortamento de NPC com estado infinito
+-animações tree 
+
+-adaptar animações no defult 3st person 
 -----------
 como enviar  para play store 
 como monetizar com ads
@@ -176,3 +178,23 @@ onde vale mais a pena
 -------------------------
 
 como recriar uma mecanica e adptar 
+
+assassins creed -andar na parede, voltar no tempo, camera lenta
+god of war - jogar machado
+speeder man -jogar teia , agarrar na parede
+just couse - mandar gancho , puxar objeto ponto B até o A
+zelda PUCHAR EMPURRAR,
+gta*** rig doll,pegar automovel,nadar mergulhar 
+THE sims  -montar casa
+jogo ponit click
+--------------------------
+
+como criar um processo de fotogrametria 
+
+como montar um menu
+
+--------------------------
+como vender seu jogo , como conseguir um craund founder
+--------------------------
+
+
