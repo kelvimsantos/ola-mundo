@@ -91,7 +91,7 @@ canal
 
 conteudo 
 como começar 
-
+por que eu escolhi unity 
 como pensar em um jogo
 hyper casual- fica mais dificil-complicado mais rapdio que intedia-repetição
 de historia, 
