@@ -3,7 +3,6 @@
 
 repositório criado durante uma aula ao vivo!
  essa linha eu adicionei direto do github
-
 ENGINE, IDEIAS 
 se for criar uma engine 
 deve aplicar coisas  que não ha nas outras ou melhorias 
@@ -91,7 +90,7 @@ canal
 
 conteudo 
 como começar 
-por que eu escolhi unity 
+por que escolhi unity(conteudo, facilidade , programação, exportação plataformas, ads ,preço )
 como pensar em um jogo
 hyper casual- fica mais dificil-complicado mais rapdio que intedia-repetição
 de historia, 
@@ -122,8 +121,8 @@ tony hawlk
 speeder man
 medalha de honra
 battle field
-
-outros que fizeram mais sucesso e ganharam premios
+prince of persia
+outros que fizeram mais sucesso e ganharam premios ps1,ps2, xbox,nintendo
 
 ----------------
 como fazer um jogo rapido
@@ -179,7 +178,7 @@ onde vale mais a pena
 
 como recriar uma mecanica e adptar 
 
-assassins creed -andar na parede, voltar no tempo, camera lenta
+assassins creed -andar na parede, voltar no tempo, camera lenta,parkour e escalada em janelas
 god of war - jogar machado
 speeder man -jogar teia , agarrar na parede
 just couse - mandar gancho , puxar objeto ponto B até o A
@@ -196,5 +195,17 @@ como montar um menu
 --------------------------
 como vender seu jogo , como conseguir um craund founder
 --------------------------
+como dar valor ao seu produto- analisando publico, analisando o produto (gastos e concorrentes), analisando mercado 
+,
 
+como saber a hora de finalizar um projeto e não ficar a vida inteira projetando 
+- primeiro entender que vc é indie e não uma empresa, saber criar umescopo antes e saber que nada vai sair perfeito da primeira vez.
+voce só deve tentar fazer um projeto complexo mais detalhado quando saber como efetuar todos os processos para esse projeto 
+não basta achar que sabe, tem que fazer as mecanicas antes de dizer que cosnegue ou algo similar .
+(como eu vou fazer um rpg se eu não sei criar e completar quests, como eu vou fazer um jogo estilo zelda se eu não sei desenvolver mecanica de puzzle)
 
+----------------------------------------------------------
+voce só vai conseguir fazer um GTA se souber o minimo que é fisica de explosão e corpos, rig doll, como funciona comportamento de NPCs, armas, animações, ambientação, animais , veiculos de toda natureza,gangs,
+menus, mapas, sistema dia e noite, missoes, lojas, comportamento de npcs e veiculos, policia e sistema de procurado, saude
+criar cenarios lindos, e por ultimo e mais importante, fazer tudo isso com o menor processamento possivel .
+--------------------------------------
