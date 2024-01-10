@@ -283,3 +283,31 @@ voce só vai conseguir fazer um GTA se souber o minimo que é fisica de explosã
 menus, mapas, sistema dia e noite, missoes, lojas, comportamento de npcs e veiculos, policia e sistema de procurado, saude
 criar cenarios lindos, e por ultimo e mais importante, fazer tudo isso com o menor processamento possivel .
 --------------------------------------
+
+
+
+----------------------------
+outras ideias para canais
+procurar no GPT o que é necessario par ter um canal de sucesso com esses temas 
+
+canal de pintura digital e desenho
+canal de modelagem 3d e escultura
+canal de animação 3d
+
+canal espacial, de astros 
+canal de resumo de filmes
+canal de analise de filmes
+canal de analise de musica
+canal de analise de video youtuber
+canal de edição de video
+canal de aprendizagem de programação/ criação de site 
+canal de historias de terror ou criminais
+
+canal de opinião sobre game e suas historias 
+
+canal de animais engraçados 
+canal de conteudo de dublagem tradução feito por IA
+analise de cração de musica e versões de musica
+
+canal sobre casos de abdução 
+
