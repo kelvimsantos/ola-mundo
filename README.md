@@ -66,6 +66,80 @@ fabrica imprime estoque antecipado
 pega e envia para logistica para eles venderem
 
 
+rosana .IA
+para funil de vendas 
+chat boot
+
+typebot
+
+
+resumo russeu bruceo
+3 livros
+
+--------------------------
+atrair pessoas para site
+publicidade paga, SEO,marketing conteudo 
+
+conversão- convencer a pessoa a comprar
+
+relação- relacionamento com cliente,
+funil de conteudo sempre
+entregar coisas que o cliente não sabia 
+
+----------------------------
+novas ofertas e novos clientes
+
+
+o trafego organico 
+depois que cehgam a sua vitrine 
+eles devem ficar a vontade  e gostar do serviço 
+
+promete menos e entrega mais 
+
+
+atração
+imagem-video
+
+texto conteudo 
+
+titulo
+descrição 
+
+----------------------------
+
+formulario de inscrição
+
+funil
+idade, sexo, classe social, gosto,profissão,localidade,
+para entender o problema que ela tem e oferecer o que a pessoa precisa
+
+afiliados
+
+site, google site, canva, blogspot,
+monta funil para vender produto
+bot de atendimento 
+
+
+
+trafego 
+organico e pago
+
+anuncio deve ser direcionado 
+para o publico com google
+nome chamativo imagem chamativa informações do produto
+descrição -escolher uma titurlo diferenciado pra ser rankeado na busca - mas uma pesquisa que as pessoas fariam 
+
+entender qual os produtos mais procurados
+
+ao direcioanar para seu site com link direcionado para pagina de vendas com seu link de afiliado 
+ , la no seu site deve ter outros produtos que você anuncia tambem varias categorias , mesmo se ela não comprar o produto que procurava ela vai ser exposta
+ a outros produtos que pode ser do gosto dela .
+ 
+ 
+
+
+
+
 FORMAS DE GANHAR DINHEIRO COM INTERNET
 ---------------------------------------------------------------------------
 video 
